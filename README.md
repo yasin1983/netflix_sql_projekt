@@ -11,7 +11,9 @@ In this project, I performed an SQL-based analysis of Netflix's movie and TV sho
 - Analyze content based on release year, country of origin, and duration.
 
 - Investigate and classify titles using specific keywords and custom criteria.
-Dataset
+
+## Dataset
+
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: Movies Dataset
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
