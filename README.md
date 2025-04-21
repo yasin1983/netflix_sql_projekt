@@ -1,9 +1,9 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-[Logo](Netflix_Logo.jpg)
-Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+![Logo](Netflix_Logo.jpg)
+## Overview
+In this project, I performed an SQL-based analysis of Netflix's movie and TV show dataset. The main purpose was to explore the data, gain useful insights, and answer relevant business questions. This README explains the project's objectives, the questions explored, the methods used, and the key findings.
 
-Objectives
+## Objectives
 Analyze the distribution of content types (movies vs TV shows).
 Identify the most common ratings for movies and TV shows.
 List and analyze content based on release years, countries, and durations.
