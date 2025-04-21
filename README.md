@@ -260,3 +260,5 @@ ORDER BY content_count DESC;
 
 Overall, this analysis offers a well-rounded perspective on Netflix’s content library and can support strategic decisions related to content planning and development.
 
+## Author - Yasin Karadag 
+This project is part of my portfolio, showcasing the MSQL skills essential for data analyst roles. Through this work, I've explored data effectively and derived meaningful insights. If you have any questions, feedback, or would like to collaborate on similar projects, feel free to reach out!
