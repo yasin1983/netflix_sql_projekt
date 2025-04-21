@@ -4,10 +4,13 @@
 In this project, I performed an SQL-based analysis of Netflix's movie and TV show dataset. The main purpose was to explore the data, gain useful insights, and answer relevant business questions. This README explains the project's objectives, the questions explored, the methods used, and the key findings.
 
 ## Objectives
-Analyze the distribution of content types (movies vs TV shows).
-Identify the most common ratings for movies and TV shows.
-List and analyze content based on release years, countries, and durations.
-Explore and categorize content based on specific criteria and keywords.
+- Examine how content is distributed between movies and TV shows.
+
+- Determine the most frequent ratings assigned to both movies and TV shows.
+
+- Analyze content based on release year, country of origin, and duration.
+
+- Investigate and classify titles using specific keywords and custom criteria.
 Dataset
 The data for this project is sourced from the Kaggle dataset:
 
